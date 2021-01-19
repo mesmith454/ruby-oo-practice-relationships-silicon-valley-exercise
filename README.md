@@ -2,6 +2,8 @@
 
 Welcome to Silicon Valley! For this assignment, our domain is the startup world! We have three models - `Startup`, `VentureCapitalist`, and `FundingRound`. A `Startup` has many `VentureCapitalist`s through `FundingRound`s.
 
+#chained parent relationship, has many through FundingRounds (joining model)
+
 If you are not sketching out your domain, and thinking about single source of truth,
 you are doing it wrong :(
 
